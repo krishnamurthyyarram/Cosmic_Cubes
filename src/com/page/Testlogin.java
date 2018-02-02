@@ -25,7 +25,7 @@ public class Testlogin {
 	public void login() {
 		LoginPage login= new LoginPage(driver);
 		login.getUsernameTextbox().sendKeys("admin");
-		//login.getUsernameTextbox().sendKeys("admin",Keys.ENTER)
+		//login.getUsernameTextbox().sendKeys("admin",Keys.ENTER);
 		login.getPasswordTextbox().sendKeys("manager");
 		login.LoginButton().click();
 		
