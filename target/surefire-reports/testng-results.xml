@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23213" started-at="2018-02-02T23:16:34Z" finished-at="2018-02-02T23:16:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23213" started-at="2018-02-02T23:16:34Z" finished-at="2018-02-02T23:16:57Z">
+      <class name="com.page.Testlogin">
+        <test-method status="PASS" signature="pre()[pri:0, instance:com.page.Testlogin@5594a1b5]" name="pre" is-config="true" duration-ms="2599" started-at="2018-02-03T04:46:34Z" finished-at="2018-02-03T04:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.page.Testlogin@5594a1b5]" name="login" duration-ms="279" started-at="2018-02-03T04:46:37Z" finished-at="2018-02-03T04:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="post()[pri:0, instance:com.page.Testlogin@5594a1b5]" name="post" is-config="true" duration-ms="20326" started-at="2018-02-03T04:46:37Z" finished-at="2018-02-03T04:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- com.page.Testlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
